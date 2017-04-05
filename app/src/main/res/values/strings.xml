@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BmiCalc</string>
+
+    <string name="height_label">Height</string>
+    <string name="mass_label">Body weight</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="calculate_bmi_btn">Calculate</string>
+    <string name="save_mass_height_btn">Save</string>
+    <string name="height_hint_m">Your height in cm</string>
+    <string name="mass_hint_kg">Your weight in kg</string>
+    <string name="height_hint_in">Your height in inches</string>
+    <string name="mass_hint_lb">Your weight in pounds</string>
+
+    <string name="action_settings_title">Settings</string>
+    <string name="action_share_title">Share</string>
+    <string name="action_about_activity_title">About</string>
+
+    <string name="share_message">My BMI is</string>
+
+    <string name="invalid_args_toast">Invalid arguments</string>
+    <string name="saved_args_toast">Your mass and height saved successfully</string>
+    <string name="invalid_args_input">Invalid argument</string>
+
+    <string name="about_me_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae semper mi. Vivamus dapibus urna ut nisi dignissim semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus semper mi neque, ac condimentum ligula vestibulum sed. Donec dapibus ante quis neque ornare congue. Proin lobortis neque in semper consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="about_me_title">About me</string>
+
+    <!-- PREFERENCES -->
+    <string name="pref_units_label">Units</string>
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="pref_units_label_imperial">Retard</string>
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+    <string name="pref_units_key">units-key</string>
+
+    <string name="pref_saved_mass_key">saved-mass-key</string>
+    <string name="pref_saved_height_key">saved-height-key</string>
+    <string name="pref_saved_bmi_key">saved-bmi-key</string>
+
+</resources>
